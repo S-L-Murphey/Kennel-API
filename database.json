@@ -1,0 +1,104 @@
+{
+  "animals": [
+    {
+      "id": 3,
+      "name": "Bill Clinton",
+      "breed": "Bull Dog",
+      "customerId": 3,
+      "locationId": 2
+    },
+    {
+      "name": "Bucket",
+      "breed": "Schnauzer ",
+      "locationId": 2,
+      "customerId": 2,
+      "id": 4
+    },
+    {
+      "id": 5,
+      "name": "Truman",
+      "breed": "Doberman",
+      "locationId": 3,
+      "customerId": 2
+    }
+  ],
+  "customers": [
+    {
+      "id": 1,
+      "name": "Hannah Hall",
+      "address": "7002 Chestnut Ct",
+      "email": "hannah@hall.com"
+    },
+    {
+      "id": 2,
+      "name": "Johnny Knoxville",
+      "address": "1234 Elm Street",
+      "email": "johnny@knoxville.com"
+    },
+    {
+      "id": 3,
+      "name": "Bam Margera",
+      "address": "1818 West Chester Lane",
+      "email": "bam@margera.com"
+    },
+    {
+      "email": "memphis@raines.com",
+      "name": "Memphis Raines",
+      "id": 4
+    }
+  ],
+  "employees": [
+    {
+      "id": 1,
+      "name": "Jeremy Bakker",
+      "locationId": 2
+    },
+    {
+      "id": 2,
+      "name": "Danny Tamberelli",
+      "locationId": 1
+    },
+    {
+      "id": 3,
+      "name": "Lori Beth Dunberg",
+      "locationId": 2
+    },
+    {
+      "id": 4,
+      "name": "Elaine Benez",
+      "locationId": 1
+    },
+    {
+      "name": "George Costanza",
+      "locationId": 2,
+      "id": 5
+    },
+    {
+      "name": "Jerry Seinfeld",
+      "locationId": 1,
+      "id": 6
+    },
+    {
+      "name": "John Joe",
+      "locationId": 1,
+      "id": 7
+    }
+  ],
+  "locations": [
+    {
+      "id": 1,
+      "name": "Nashville North",
+      "address": "8422 Johnson Pike"
+    },
+    {
+      "id": 2,
+      "name": "Nashville South",
+      "address": "209 Emory Drive"
+    },
+    {
+      "name": "Nashville West",
+      "address": "1818 Johannes Drive",
+      "id": 3
+    }
+  ]
+}
